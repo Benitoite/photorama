@@ -2,9 +2,9 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "http://aferrero2707.github.io"
+url: "http://benitoite.github.io"
 baseurl: "/photorama"
-store_url: "http://aferrero2707.github.io"
+store_url: "http://benitoite.github.io"
 store_baseurl: "/photostore/archive/"
 facebook_username: ""
 twitter_username: ""
@@ -35,7 +35,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://aferrero2707.github.io/photorama/gallery/"  
+  - GALLERY: "http://benitoite.github.io/photorama/gallery/"  
 #  - JOURNAL: "http://aferrero2707.github.io/photorama/journal/"
 #  - ABOUT: "http://aferrero2707.github.io/photorama/about/"
 
