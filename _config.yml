@@ -3,7 +3,7 @@ title: PHOTORAMA
 email: ""
 description: "Photo Journal"
 url: "http://benitoite.github.io"
-baseurl: "/photorama"
+baseurl: "/photos"
 store_url: "http://benitoite.github.io"
 store_baseurl: "/photostore/archive/"
 facebook_username: "kd6kxr"
