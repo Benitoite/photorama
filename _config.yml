@@ -1,6 +1,6 @@
 # Site settings
-title: PHOTORAMA
-email: ""
+title: PHOTOGRAPHY
+email: "kd6kxr@gmail.com"
 description: "Photo Journal"
 url: "http://benitoite.github.io"
 baseurl: "/photos"
@@ -17,7 +17,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   RICHARD BARBER
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -35,7 +35,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://benitoite.github.io/photorama/gallery/"  
+  - GALLERY: "http://benitoite.github.io/photos/gallery/"  
 #  - JOURNAL: "http://aferrero2707.github.io/photorama/journal/"
 #  - ABOUT: "http://aferrero2707.github.io/photorama/about/"
 
